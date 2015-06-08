@@ -15,6 +15,7 @@ wp-content/w3tc-config
 wp-content/*
 !wp-content/plugins
 !wp-content/themes
+!wp-content/themes/angularpress
 
 # Ignore all plugins except the ones you specify
 wp-content/plugins/*
